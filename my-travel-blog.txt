@@ -1,0 +1,176 @@
+{
+  "Title": "My travel blog",
+  "Meta": "I am a super cool travel influencer",
+  "Entries": {
+  "1": {
+  "date":"2021-03-21",
+  "text":"it was a very romantic trip. Maybe a bit expensive, but I don't care.",
+  "location":"unknown",
+  "link":"img/photo1.jpg",
+  },
+  "2": {
+  "date":"2021-03-24",
+  "text":"Off to the sea, at least a bit. R1ch$ life baby...",
+  "location":"8FM5JV5G+G9",
+  "link":"",
+  },
+  "3": {
+  "date":"2021-04-07",
+  "text":"I really need to store ma moneyz somewhere, maybe here? city in a small country with just 434335 inhabitants. Not sure but these mountains lok like the alps?",
+  "location":"",
+  "link":"",
+  },
+  "4": {
+  "date":"2021-04-20",
+  "text":"where am i? no idea. Just trees....",
+  "location":"8FQPHCQX+C2",
+  "link":"",
+  },
+  "5": {
+  "date":"2021-04-25",
+  "text":"this really is an old city. i feel so important. ready to rock the world.",
+  "location":"9F2P3CG6+6HQ",
+  "link":"",
+  },
+  "6": {
+  "date":"2021-05-01",
+  "text":"time to get spiritual",
+  "location":"",
+  "link":"img/photo2.jpg",
+  },
+  "7": {
+  "date":"2021-05-06",
+  "text":"the f00d is amazon here",
+  "location":"7JJWWQFJ+WP",
+  "link":"",
+  },
+  "8": {
+  "date":"2021-05-08",
+  "text":"feeling like a king",
+  "location":"7JHX42MV+FP",
+  "link":"",
+  },
+  "9": {
+  "date":"2021-05-11",
+  "text":"see by yourself",
+  "location":"7JHV2Q23+XP",
+  "link":"",
+  },
+  "10": {
+  "date":"2021-05-14",
+  "text":"$$$",
+  "location":"7JHX43FG+WW",
+  "link":"",
+  },
+  "11": {
+  "date":"2021-05-16",
+  "text":"$$$$",
+  "location":"",
+  "link":"7JCXR9VF+P6",
+  },
+  "12": {
+  "date":"2021-05-18",
+  "text":";-)",
+  "location":"",
+  "link":"img/photo3.jpg",
+  },
+  "13": {
+  "date":"2021-06-02",
+  "text":"",
+  "location":"///factored.faced.blacked",
+  "link":"",
+  },
+  "14": {
+  "date":"2021-06-04",
+  "text":"",
+  "location":"///guesswork.gashes.clogging",
+  "link":"",
+  },
+  "15": {
+  "date":"2021-06-07",
+  "text":"",
+  "location":"///crafted.beget.gullet",
+  "link":"",
+  },
+  "16": {
+  "date":"2021-06-08",
+  "text":"",
+  "location":"///blink.twinge.snoring",
+  "link":"",
+  },
+  "17": {
+  "date":"2021-06-12",
+  "text":"",
+  "location":"///reboot.manages.extent",
+  "link":"",
+  },
+  "18": {
+  "date":"2021-06-16",
+  "text":"",
+  "location":"///proudest.striving.situation",
+  "link":"",
+  },
+  "19": {
+  "date":"2021-06-19",
+  "text":"",
+  "location":"///reversed.candle.launcher",
+  "link":"",
+  },
+  "20": {
+  "date":"2021-06-24",
+  "text":"",
+  "location":"///rebounds.unclaimed.casually",
+  "link":"",
+  },
+  "21": {
+  "date":"2021-07-03",
+  "text":"",
+  "location":"45.13004, -107.16686",
+  "link":"",
+  },
+  "22": {
+  "date":"2021-07-07",
+  "text":"",
+  "location":"44.6631, -110.90221",
+  "link":"",
+  },
+  "23": {
+  "date":"2021-07-16",
+  "text":"",
+  "location":"44.5066, -114.37389",
+  "link":"",
+  },
+  "24": {
+  "date":"2021-07-17",
+  "text":"",
+  "location":"41.42039, -114.46178",
+  "link":"",
+  },
+  "25": {
+  "date":"2021-07-19",
+  "text":"",
+  "location":"38.79938, -114.54968",
+  "link":"",
+  },
+  "26": {
+  "date":"2021-07-22",
+  "text":"",
+  "location":"35.93611, -114.54968",
+  "link":"",
+  },
+  "27": {
+  "date":"2021-07-29",
+  "text":"",
+  "location":"36.36193, -110.90221",
+  "link":"",
+  },
+  "28": {
+  "date":"2021-07-30",
+  "text":"",
+  "location":"36.11382, -107.73815",
+  "link":"",
+  }
+  }
+  "METAX": "talk to my travel bot (use direct chat and '!' to talk to the bot!"
+  "METAXlink":"5.150.254.21:6667 #ctf"
+}
